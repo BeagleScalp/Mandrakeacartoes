@@ -1,0 +1,10 @@
+MANDRAKE CARTÕES & CRÉDITO — VERSÃO ORIGINAL COM PIX POR ITEM
+
+Esta versão parte do HTML original enviado, mantendo o desenho, textos, efeitos e imagens disponíveis. Foi acrescentado um botão “Comprar com Pix” aos cards que possuem preço (produtos e pacotes), abrindo um modal com QR Code e Pix copia e cola com valor preenchido.
+
+Chave Pix configurada: 10680023950
+Nome/cidade configurados no payload: MANDRAKE CATALOGO / CURITIBA. Confirme e ajuste esses campos no final do index.html para corresponder aos dados corretos do recebedor.
+
+IMPORTANTE: este é um checkout estático. Ele não confirma pagamentos, não consulta o banco e não libera pedidos automaticamente. Confira o destinatário e o valor no app bancário antes de pagar. Os itens devem ser usados apenas como adereços cenográficos/de coleção sem função financeira, e as imagens de notas são ilustrativas e sem valor monetário.
+
+Para abrir, extraia o ZIP e abra index.html. A biblioteca de QR Code é carregada por CDN, então é necessária conexão com a internet para desenhar o QR; o Pix copia e cola também fica disponível.
